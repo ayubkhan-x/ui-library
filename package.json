@@ -1,0 +1,22 @@
+{
+  "name": "ayub-ui",
+  "version": "1.0.0",
+  "description": "Ayubkhan's first ui library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayubkhan-x/ui-library.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "Ayub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayubkhan-x/ui-library/issues"
+  },
+  "homepage": "https://github.com/ayubkhan-x/ui-library#readme"
+}
